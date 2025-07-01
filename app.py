@@ -216,3 +216,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    print("Streamlit app is running. Visit http://localhost:8501 to view it.")

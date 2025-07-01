@@ -1,3 +1,4 @@
+
 import numpy as np
 import pandas as pd
 import yfinance as yf
@@ -89,3 +90,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    print("Training complete. You can now run the app.py to use the trained model.")
